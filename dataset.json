@@ -1,0 +1,14 @@
+[
+  {
+    "task": "Extract the AWS region from an S3 bucket ARN like 'arn:aws:s3:::my-bucket-us-east-1'",
+    "format": "regex"
+  },
+  {
+    "task": "Create a CloudFormation template JSON snippet that defines an IAM role with a trust policy allowing EC2 to assume it",
+    "format": "json"
+  },
+  {
+    "task": "Write a Python function that takes an AWS access key ID and returns True if it matches the valid AWS access key format",
+    "format": "python"
+  }
+]
