@@ -1,14 +1,17 @@
 [
   {
-    "task": "Extract the AWS region from an S3 bucket ARN like 'arn:aws:s3:::my-bucket-us-east-1'",
-    "format": "regex"
+    "task": "Extract the AWS region from an S3 bucket ARN (e.g., 'arn:aws:s3:::my-bucket-us-east-1'). Return only the region code.",
+    "format": "regex",
+    "solution_criteria": "The regex must correctly identify and capture region patterns in S3 ARNs, handling cases where region may or may not be present in the bucket name."
   },
   {
-    "task": "Create a CloudFormation template JSON snippet that defines an IAM role with a trust policy allowing EC2 to assume it",
-    "format": "json"
+    "task": "Create a Python function that takes an AWS CloudWatch log event and extracts the timestamp and message fields, returning them as a dictionary.",
+    "format": "python",
+    "solution_criteria": "The function must parse the CloudWatch event structure, handle missing fields gracefully, and return a clean dictionary with 'timestamp' and 'message' keys."
   },
   {
-    "task": "Write a Python function that takes an AWS access key ID and returns True if it matches the valid AWS access key format",
-    "format": "python"
+    "task": "Generate a JSON configuration object for an AWS Lambda function that specifies the function name, runtime (Python 3.11), memory (256 MB), timeout (30 seconds), and an environment variable AWS_REGION set to 'us-east-1'.",
+    "format": "json",
+    "solution_criteria": "The JSON must follow valid AWS Lambda configuration schema, include all specified parameters with correct data types, and be properly formatted."
   }
 ]
