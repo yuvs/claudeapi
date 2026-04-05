@@ -54,4 +54,4 @@
   - Routing workflows
   - Agents and tools
   - Environment inspection
-  - Workslows vs Agents
+  - Workflows vs Agents
