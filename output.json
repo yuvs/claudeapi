@@ -1,0 +1,65 @@
+[
+  {
+    "output": "# One-Day Muscle Building Meal Plan\n## For 85 kg Male Athlete (180 cm)\n\n**Daily Target:** 3,200 calories | 180g protein | 320g carbs | 107g fat\n\n---\n\n## BREAKFAST (7:00 AM)\n**Oatmeal Power Bowl** | 850 calories\n\n- Rolled oats: 100g\n- Whole milk: 300ml\n- Banana: 150g\n- Peanut butter: 30g\n- Honey: 20g\n\n**Macros:** 28g protein | 95g carbs | 32g fat\n\n---\n\n## MID-MORNING SNACK (10:30 AM)\n**Greek Yogurt Protein Stack** | 380 calories\n\n- Greek yogurt (plain): 200g\n- Granola: 50g\n- Berries (mixed): 100g\n- Almonds: 25g\n\n**Macros:** 20g protein | 38g carbs | 12g fat\n\n---\n\n## LUNCH (1:00 PM)\n**Chicken & Rice Plate** | 920 calories\n\n- Grilled chicken breast: 200g\n- Brown rice (cooked): 250g\n- Olive oil: 15ml\n- Broccoli: 150g\n- Salt & pepper to taste\n\n**Macros:** 52g protein | 105g carbs | 18g fat\n\n---\n\n## PRE-WORKOUT (3:30 PM)\n**Quick Carb + Protein** | 280 calories\n\n- White bread: 80g\n- Honey: 30g\n- Whey protein powder: 30g\n- Water: 250ml\n\n**Macros:** 25g protein | 42g carbs | 2g fat\n\n---\n\n## DINNER (7:00 PM)\n**Lean Beef & Sweet Potato** | 770 calories\n\n- Lean ground beef (90/10): 200g\n- Sweet potato (baked): 250g\n- Spinach (saut\u00e9ed): 100g\n- Olive oil: 10ml\n\n**Macros:** 55g protein | 40g carbs | 27g fat\n\n---\n\n## EVENING SNACK (9:30 PM)\n**Casein Shake** | 200 calories\n\n- Cottage cheese (low-fat): 150g\n- Banana: 100g\n- Cinnamon: 2g\n\n**Macros:** 20g protein | 20g carbs | 2g fat\n\n---\n\n## DAILY TOTALS\n| Nutrient | Target | Actual |\n|----------|--------|--------|\n| **Calories** | 3,200 | 3,400 |\n| **Protein** | 180g | 200g |\n| **Carbs** | 320g | 340g |\n| **Fat** | 107g | 93g |\n\n---\n\n## NOTES\n\u2713 **Hydration:** Drink 3-4 liters of water throughout the day  \n\u2713 **Timing:** Pre-workout meal provides energy; evening snack supports overnight recovery  \n\u2713 **Budget:** ~$12-15 per day with bulk purchases  \n\u2713 **Flexibility:** Swap brown rice for white rice, chicken for turkey, or beef for salmon  \n\u2713 **No Restrictions:** All foods align with unrestricted diet; fully customizable based on preferences",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "180 cm",
+        "weight": "85 kg",
+        "goal": "Muscle building with caloric surplus for strength training",
+        "restrictions": "None"
+      },
+      "solution_criteria": [
+        "Meal plan covers all 3 meals (breakfast, lunch, dinner) plus snacks",
+        "Protein distributed across meals with minimum 30g per meal",
+        "Total daily calories support muscle-building surplus (approximately 3000-3200 kcal)",
+        "Plan is concise and formatted for quick daily reference"
+      ],
+      "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+      "scenario": "Testing with a strength/power athlete (weightlifter) needing elevated protein distribution and caloric surplus for muscle building"
+    },
+    "score": 9,
+    "reasoning": "The solution comprehensively satisfies all mandatory requirements with exact foods, portions, timing, daily caloric total, and macronutrient breakdown clearly presented. It exceeds secondary criteria by providing 6 eating occasions with protein well-distributed across all meals (minimum 20g per eating occasion, exceeding the 30g per meal requirement for main meals). The plan is appropriately concise and formatted for quick daily reference. Minor deviations from target macros (slight caloric overage and fat shortfall) are negligible and do not compromise the plan's effectiveness for muscle building. The inclusion of practical notes, flexibility options, and cost estimates adds genuine value without compromising conciseness."
+  },
+  {
+    "output": "# One-Day Competition Maintenance Meal Plan\n## For 52 kg Female Athlete (160 cm)\n\n**Daily Target:** 1,800 calories | 90g protein | 225g carbs | 50g fat\n\n---\n\n## BREAKFAST (7:00 AM)\n**Energizing Oatmeal Bowl** | 420 calories\n\n- Rolled oats: 50g\n- Low-fat milk: 200ml\n- Banana: 120g\n- Honey: 15g\n- Ground flaxseed: 10g\n\n**Macros:** 14g protein | 65g carbs | 7g fat\n\n---\n\n## MID-MORNING SNACK (10:00 AM)\n**Yogurt & Fruit Parfait** | 180 calories\n\n- Greek yogurt (plain, low-fat): 150g\n- Blueberries: 80g\n- Granola (nut-free): 20g\n\n**Macros:** 15g protein | 24g carbs | 2g fat\n\n---\n\n## LUNCH (1:00 PM)\n**Lentil & Vegetable Buddha Bowl** | 520 calories\n\n- Cooked lentils: 120g\n- Quinoa (cooked): 100g\n- Chickpeas: 80g\n- Spinach (raw): 80g\n- Carrot (grated): 60g\n- Olive oil (dressing): 10ml\n- Lemon juice & herbs: to taste\n\n**Macros:** 22g protein | 68g carbs | 11g fat\n\n---\n\n## PRE-COMPETITION SNACK (3:30 PM)\n**Quick Energy Boost** | 260 calories\n\n- White bread: 70g\n- Jam (fruit): 20g\n- Banana: 100g\n\n**Macros:** 6g protein | 58g carbs | 1g fat\n\n---\n\n## DINNER (6:30 PM)\n**Tofu Stir-Fry with Rice** | 380 calories\n\n- Firm tofu: 150g\n- Brown rice (cooked): 120g\n- Broccoli: 100g\n- Bell pepper (mixed): 80g\n- Sesame oil: 8ml\n- Low-sodium soy sauce: 10ml\n- Ginger & garlic: to taste\n\n**Macros:** 18g protein | 38g carbs | 12g fat\n\n---\n\n## EVENING SNACK (8:30 PM)\n**Protein-Rich Smoothie** | 240 calories\n\n- Low-fat cottage cheese: 120g\n- Mango (frozen): 100g\n- Oat milk: 150ml\n- Vanilla extract: 2ml\n\n**Macros:** 15g protein | 32g carbs | 2g fat\n\n---\n\n## DAILY TOTALS\n| Nutrient | Target | Actual |\n|----------|--------|--------|\n| **Calories** | 1,800 | 2,000 |\n| **Protein** | 90g | 90g |\n| **Carbs** | 225g | 285g |\n| **Fat** | 50g | 35g |\n\n---\n\n## NOTES\n\u2713 **Hydration:** Drink 2.5-3 liters of water throughout the day; increase 2 hours before competition  \n\u2713 **Timing:** Light pre-competition snack (3:30 PM) provides quick energy without digestive distress  \n\u2713 **Protein Distribution:** 15-22g per meal ensures steady amino acid availability for recovery  \n\u2713 **Budget-Friendly:** ~$8-10 per day using lentils, chickpeas, and seasonal produce  \n\u2713 **Nut-Free:** All foods certified safe; alternative nut-free granola products available  \n\u2713 **Flexibility:** Swap lentils for beans, tofu for tempeh, brown rice for white rice, or mango for berries  \n\u2713 **Competition Day:** Consider moving dinner earlier and adjusting snack portions based on event timing",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "160 cm",
+        "weight": "52 kg",
+        "goal": "Maintain weight and performance for competition while meeting strict 1,800 calorie daily limit",
+        "restrictions": "Vegetarian, no nuts due to allergy"
+      },
+      "solution_criteria": [
+        "Meal plan totals approximately 1,800 calories across all meals",
+        "Includes at least 100g of protein distributed throughout the day to support muscle recovery",
+        "All meals are vegetarian and nut-free",
+        "Plan is concise and formatted for a single day with clear meal times"
+      ],
+      "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+      "scenario": "Testing with a sport with specific weight management needs (gymnast or boxer) requiring balanced nutrition within strict caloric constraints while maintaining performance"
+    },
+    "score": 6,
+    "reasoning": "The solution demonstrates excellent structure, clarity, and attention to dietary restrictions. However, it fails a critical secondary criterion: the meal plan totals 2,000 calories instead of approximately 1,800 as required. The task explicitly emphasizes a 'strict 1,800 calorie daily limit,' making this a significant shortfall. Additionally, carbohydrates are 60g over target while fat is 15g under target, indicating poor macronutrient distribution relative to stated goals. While the solution meets mandatory requirements technically (it includes all required information), the actual nutritional content does not align with the specified constraints."
+  },
+  {
+    "output": "# One-Day Marathon Training Meal Plan\n## For 68 kg Vegetarian Athlete (178 cm)\n\n**Daily Target:** 3,100 calories | 115g protein | 520g carbs | 75g fat\n\n---\n\n## PRE-RUN SNACK (6:00 AM)\n**Light Carb Loading** | 280 calories\n\n- White bread: 80g\n- Banana: 120g\n- Honey: 20g\n- Water: 250ml\n\n**Macros:** 8g protein | 65g carbs | 1g fat\n\n---\n\n## POST-RUN RECOVERY (8:15 AM)\n**Chocolate Recovery Smoothie** | 420 calories\n\n- Whole milk: 400ml\n- Whey protein powder (vanilla): 30g\n- Banana: 100g\n- Dark chocolate powder: 15g\n- Oats: 40g\n\n**Macros:** 25g protein | 62g carbs | 8g fat\n\n---\n\n## BREAKFAST (9:30 AM)\n**Vegetarian Protein Pancakes** | 650 calories\n\n- Buckwheat pancake mix: 80g\n- Eggs: 2 (100g)\n- Maple syrup: 40g\n- Berries (blueberries): 150g\n- Olive oil (cooking): 5ml\n- Low-fat yogurt: 100g\n\n**Macros:** 20g protein | 95g carbs | 15g fat\n\n---\n\n## MID-MORNING SNACK (12:00 PM)\n**Hummus & Veggie Plate** | 380 calories\n\n- Hummus: 100g\n- Whole wheat pita bread: 100g\n- Carrot sticks: 150g\n- Cucumber: 150g\n- Chickpea snack crackers: 40g\n\n**Macros:** 12g protein | 48g carbs | 14g fat\n\n---\n\n## LUNCH (1:30 PM)\n**Lentil & Quinoa Bowl** | 780 calories\n\n- Cooked lentils (red): 180g\n- Quinoa (cooked): 150g\n- Spinach (raw): 80g\n- Cherry tomatoes: 120g\n- Feta cheese: 40g\n- Olive oil (dressing): 15ml\n- Lemon juice & herbs to taste\n\n**Macros:** 28g protein | 98g carbs | 18g fat\n\n---\n\n## AFTERNOON SNACK (4:00 PM)\n**Energy Bars & Date** | 360 calories\n\n- Oat energy bars (homemade or store-bought): 2 bars (100g)\n- Dates (pitted): 80g\n- Water: 500ml\n\n**Macros:** 8g protein | 82g carbs | 6g fat\n\n---\n\n## DINNER (7:00 PM)\n**Baked Tofu Stir-Fry** | 730 calories\n\n- Extra-firm tofu (baked): 250g\n- Brown rice (cooked): 200g\n- Mixed vegetables (broccoli, bell pepper, snap peas): 250g\n- Sesame oil: 10ml\n- Low-sodium soy sauce: 15ml\n- Garlic & ginger to taste\n\n**Macros:** 24g protein | 82g carbs | 18g fat\n\n---\n\n## EVENING SNACK (9:30 PM)\n**Greek Yogurt Parfait** | 320 calories\n\n- Plain Greek yogurt (low-fat): 200g\n- Granola: 50g\n- Honey: 20g\n- Berries (mixed): 100g\n\n**Macros:** 18g protein | 38g carbs | 5g fat\n\n---\n\n## DAILY TOTALS\n| Nutrient | Target | Actual |\n|----------|--------|--------|\n| **Calories** | 3,100 | 3,120 |\n| **Protein** | 115g | 113g |\n| **Carbs** | 520g | 530g |\n| **Fat** | ",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "178 cm",
+        "weight": "68 kg",
+        "goal": "Marathon training with high carbohydrate intake and strategic meal timing around a 2-hour morning run",
+        "restrictions": "Vegetarian, no nuts"
+      },
+      "solution_criteria": [
+        "Meal plan covers one full day with breakfast, lunch, dinner, and pre/post-workout meals",
+        "Pre-run meal is light and carbohydrate-focused; post-run meal includes carbohydrates and protein for recovery",
+        "Total daily calories and macronutrients are appropriate for an endurance athlete in training",
+        "All meals comply with vegetarian diet and nut-free restrictions"
+      ],
+      "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+      "scenario": "Testing with a high-intensity endurance athlete (marathon runner) requiring high carbohydrate intake and specific timing around training sessions"
+    },
+    "score": 8,
+    "reasoning": "The solution fully satisfies all mandatory requirements: it includes daily caloric total (3,120 cal), complete macronutrient breakdown (protein, carbs, fat), and all meals with exact foods, portions, and timing. The meal plan is well-structured for marathon training with appropriate pre-run (280 cal, 65g carbs) and post-run (420 cal, 25g protein + 62g carbs) meals. All foods are vegetarian and nut-free. The plan meets secondary criteria by covering all meal types (breakfast, lunch, dinner, snacks) with strategic timing around the 2-hour morning run. The primary deficiency is the incomplete fat row in the daily totals table, which is a presentation issue rather than a content failure. Macro targets are nearly met with only minor overages in carbs and fat that are reasonable for an endurance athlete."
+  }
+]
