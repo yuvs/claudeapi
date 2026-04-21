@@ -1,0 +1,25 @@
+
+CHURN ANALYSIS - QUICK SUMMARY
+================================================================================
+
+TOP 5 CHURN DRIVERS:
+1. Total Viewing Hours (15.6%) - STRONGEST PREDICTOR
+2. Avg Session Duration (9.6%)
+3. Unique Titles Watched (11.0%)
+4. Top Genre (20.6%)
+5. Binge Watching Sessions (11.4%)
+
+CRITICAL FINDING:
+Churn is an ENGAGEMENT problem, not a PRICE problem.
+
+Low engagement (<52h/month): 54.4% churn rate
+High engagement: 33.3% churn rate
+Risk multiplier: 1.6x
+
+IMMEDIATE ACTION ITEMS:
+• Create alerts for users with <52 viewing hours/month
+• Improve content recommendations and discovery
+• Reduce customer service issues through quality improvements
+• Incentivize Premium tier upgrades (24% vs 43% churn)
+
+All findings statistically significant (p < 0.05)

@@ -1,0 +1,92 @@
+
+STREAMING SERVICE CHURN ANALYSIS - EXECUTIVE SUMMARY
+================================================================================
+
+DATASET OVERVIEW:
+• Total customers: 500
+• Churned: 193 (38.6%)
+• Retained: 307 (61.4%)
+
+MAJOR CHURN DRIVERS (Ranked by Feature Importance):
+================================================================================
+
+Total Viewing Hours: 24.3%
+Avg Session Duration: 20.6%
+Unique Titles Watched: 15.6%
+Top Genre: 11.4%
+Binge Watching Sessions: 11.0%
+Customer Service Interactions: 9.6%
+Monthly Cost: 4.0%
+Subscription Tier: 3.5%
+
+
+DETAILED ANALYSIS BY FEATURE:
+================================================================================
+
+TotalViewingHoursLastMonth:
+  Churned: 66.58
+  Retained: 83.22
+  Difference: -16.64
+  P-value: 0.000000 ***
+
+BingeWatchingSessionsLastMonth:
+  Churned: 6.17
+  Retained: 7.69
+  Difference: -1.52
+  P-value: 0.000000 ***
+
+NumberOfUniqueTitlesWatchedLastMonth:
+  Churned: 19.45
+  Retained: 23.74
+  Difference: -4.29
+  P-value: 0.000000 ***
+
+AverageSessionDurationMinutes:
+  Churned: 49.42
+  Retained: 57.76
+  Difference: -8.34
+  P-value: 0.000001 ***
+
+CustomerServiceInteractionsLastYear:
+  Churned: 3.18
+  Retained: 2.49
+  Difference: 0.69
+  P-value: 0.000000 ***
+
+MonthlyCost:
+  Churned: 11.18
+  Retained: 12.11
+  Difference: -0.93
+  P-value: 0.004680 **
+
+SUBSCRIPTION TIER ANALYSIS:
+--------------------------------------------------------------------------------
+  Basic: 43.5% churn (207 customers)
+  Standard: 39.5% churn (210 customers)
+  Premium: 24.1% churn (83 customers)
+
+
+KEY ACTIONABLE INSIGHTS:
+================================================================================
+
+1. ENGAGEMENT IS CRITICAL
+   Customers with <52 viewing hours/month have 54.4% churn rate
+   vs 33.3% for higher engagement users.
+
+2. CUSTOMER SERVICE ISSUES DRIVE CHURN
+   High CS interactions (>2): 48.8% churn rate
+   Low CS interactions (≤2): 24.6% churn rate
+   Risk multiplier: 2.0x
+
+3. PRICE IS NOT THE PRIMARY ISSUE
+   Premium tier (highest cost): 24.1% churn
+   Basic tier (lowest cost): 43.5% churn
+   Higher-paying customers churn LESS, not more.
+
+RECOMMENDATIONS:
+--------------------------------------------------------------------------------
+• Flag users with <52 viewing hours/month for intervention
+• Improve content discovery and recommendations
+• Address root causes driving CS interactions
+• Incentivize Premium tier upgrades
+• Focus retention efforts on first 2-3 months
